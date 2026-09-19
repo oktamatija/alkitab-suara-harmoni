@@ -40,9 +40,18 @@ Berkas installer dapat diunduh langsung melalui menu [Releases](https://github.c
 
 | Platform | Format | Keterangan |
 | :--- | :--- | :--- |
+| **Google Play** | `AAB (.aab)` | Android App Bundle bertanda tangan rilis (*Signed Release Keystore*) |
+| **Android** | `APK (.apk)` | Paket instalasi langsung Android Release APK |
 | **Windows** | `Setup (.exe)` | Installer Inno Setup dengan pintasan Desktop & Menu Mulai |
 | **Windows** | `Portable (.zip)` | Langsung ekstrak dan jalankan tanpa perlu instalasi |
-| **Android** | `APK (.apk)` | Paket instalasi Android Release |
+
+---
+
+## 🔒 Kebijakan Privasi
+
+Aplikasi ini menghargai penuh privasi Anda: tidak ada data pribadi yang dikumpulkan, tidak ada pelacak, dan tidak ada iklan.  
+Lihat selengkapnya pada berkas [PRIVACY_POLICY.md](PRIVACY_POLICY.md).
+
 
 ---
 

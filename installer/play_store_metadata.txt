@@ -1,0 +1,72 @@
+================================================================================
+INFORMASI METADATA APLIKASI GOOGLE PLAY CONSOLE
+================================================================================
+
+Nama Aplikasi (Maksimal 30 karakter):
+Alkitab Harmoni Suara
+
+Deskripsi Singkat (Maksimal 80 karakter):
+Alkitab audio dengan harmoni musik multi-genre & sinkronisasi sorotan ayat.
+
+Kategori Aplikasi:
+Buku & Referensi (Books & Reference)
+
+Tag Aplikasi:
+Alkitab, Audio Alkitab, Rohani, Doa, Kitab Suci, Renungan, Meditasi Kristen
+
+URL Kebijakan Privasi (Privacy Policy):
+https://raw.githubusercontent.com/oktamatija/alkitab-suara-harmoni/main/PRIVACY_POLICY.md
+(atau https://github.com/oktamatija/alkitab-suara-harmoni/blob/main/PRIVACY_POLICY.md)
+
+Email Dukungan Pengembang:
+oktamatija@gmail.com
+
+Situs Web Pengembang:
+https://github.com/oktamatija/alkitab-suara-harmoni
+
+Target Audiens & Konten:
+- Semua Umur (Everyone / PEGI 3)
+- Tidak mengandung kekerasan, konten dewasa, atau perjudian.
+- Tidak mengandung iklan (Pilih: "Tidak, aplikasi saya tidak berisi iklan").
+
+--------------------------------------------------------------------------------
+DESKRIPSI LENGKAP (FULL DESCRIPTION - Format Google Play):
+--------------------------------------------------------------------------------
+Alkitab Harmoni Suara menghadirkan pengalaman baru yang mendalam dan damai dalam membaca dan mendengarkan Firman Tuhan. Dirancang khusus untuk saat teduh, renungan harian, dan meditasi Firman dengan perpaduan pembacaan narasi ayat per ayat dan harmoni musik pengiring multi-genre.
+
+✨ FITUR-FITUR UNGGULAN:
+
+🎵 7 GENRE HARMONI MUSIK PENGIRING
+Nikmati suasana pembacaan firman dengan pilihan aransemen musik yang menenangkan:
+• Piano Khidmat (Peaceful & Worship Piano)
+• Akustik Meditasi (Warm & Reflective Acoustic Guitar)
+• Ambient Teduh (Celestial Warm Pads)
+• Lofi Santai (Mellow & Chill Beats)
+• Suara Alam Damai (Gentle Rain & Calm Ambience)
+• Orkestra Khidmat (Sacred Strings & Cathedral Harmony)
+• Tanpa Musik (Mode Hening)
+
+🗣️ PEMBACAAN NARASI AYAT PER AYAT
+• Didukung pilihan suara narator Pria dan Wanita dengan intonasi yang jernih, khidmat, dan pengucapan sakral.
+• Kecepatan pembacaan dapat disesuaikan (0.75x hingga 1.5x).
+• Dilengkapi jeda refleksi antar-ayat untuk memberi ruang merenungkan setiap firman.
+
+🎯 SINKRONISASI SOROTAN TEKS REAL-TIME
+• Teks ayat yang sedang dibacakan otomatis disorot dengan warna aksen emas yang lembut.
+• Halaman otomatis bergulir (auto-scroll) menjaga ayat yang sedang aktif selalu tepat di tengah layar Anda.
+
+🔢 PEMILIH PASAL & RENTANG AYAT DINAMIS (AUTO-STOP)
+• Pilih ayat tertentu yang ingin didengarkan (misal ayat 1–10, 1–15, atau rentang kustom).
+• Pembacaan narasi dan musik latar akan berhenti secara otomatis begitu ayat akhir selesai dibacakan.
+
+🎚️ MIXER AUDIO MANDIRI & AUTO-DUCKING
+• Pengaturan volume narasi suara dan volume musik pengiring yang dapat disetel secara terpisah.
+• Fitur Auto-Ducking cerdas: musik latar meredup lembut saat narasi bersuara dan mengalun kembali saat jeda.
+
+📴 OFFLINE-FIRST & TANPA IKLAN
+• Akses seluruh 66 Kitab Perjanjian Lama dan Perjanjian Baru kapan saja tanpa memerlukan koneksi internet.
+• Sepenuhnya bebas dari iklan komersial yang mengganggu saat teduh Anda.
+• Privasi terjamin: tidak ada data pribadi yang dikumpulkan.
+
+Alami keindahan Firman yang hidup dan damai dalam setiap alunan Alkitab Harmoni Suara.
+================================================================================

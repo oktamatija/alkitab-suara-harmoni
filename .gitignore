@@ -50,4 +50,11 @@ app.*.map.json
 installer/*.apk
 installer/*.exe
 installer/*.zip
+installer/*.aab
+
+# Android signing keys (never commit to git)
+*.jks
+*.keystore
+**/key.properties
+
 
