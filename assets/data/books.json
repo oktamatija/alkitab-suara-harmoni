@@ -1,0 +1,530 @@
+[
+  {
+    "id": 1,
+    "name": "Kejadian",
+    "abbr": "Kej",
+    "testament": "PL",
+    "maxChapter": 50,
+    "totalVerses": 1533
+  },
+  {
+    "id": 2,
+    "name": "Keluaran",
+    "abbr": "Kel",
+    "testament": "PL",
+    "maxChapter": 40,
+    "totalVerses": 1213
+  },
+  {
+    "id": 3,
+    "name": "Imamat",
+    "abbr": "Im",
+    "testament": "PL",
+    "maxChapter": 27,
+    "totalVerses": 859
+  },
+  {
+    "id": 4,
+    "name": "Bilangan",
+    "abbr": "Bil",
+    "testament": "PL",
+    "maxChapter": 36,
+    "totalVerses": 1288
+  },
+  {
+    "id": 5,
+    "name": "Ulangan",
+    "abbr": "Ul",
+    "testament": "PL",
+    "maxChapter": 34,
+    "totalVerses": 959
+  },
+  {
+    "id": 6,
+    "name": "Yosua",
+    "abbr": "Yos",
+    "testament": "PL",
+    "maxChapter": 24,
+    "totalVerses": 658
+  },
+  {
+    "id": 7,
+    "name": "Hakim-hakim",
+    "abbr": "Hak",
+    "testament": "PL",
+    "maxChapter": 21,
+    "totalVerses": 618
+  },
+  {
+    "id": 8,
+    "name": "Rut",
+    "abbr": "Rut",
+    "testament": "PL",
+    "maxChapter": 4,
+    "totalVerses": 85
+  },
+  {
+    "id": 9,
+    "name": "1 Samuel",
+    "abbr": "1Sam",
+    "testament": "PL",
+    "maxChapter": 31,
+    "totalVerses": 810
+  },
+  {
+    "id": 10,
+    "name": "2 Samuel",
+    "abbr": "2Sam",
+    "testament": "PL",
+    "maxChapter": 24,
+    "totalVerses": 695
+  },
+  {
+    "id": 11,
+    "name": "1 Raja-raja",
+    "abbr": "1Raj",
+    "testament": "PL",
+    "maxChapter": 22,
+    "totalVerses": 816
+  },
+  {
+    "id": 12,
+    "name": "2 Raja-raja",
+    "abbr": "2Raj",
+    "testament": "PL",
+    "maxChapter": 25,
+    "totalVerses": 719
+  },
+  {
+    "id": 13,
+    "name": "1 Tawarikh",
+    "abbr": "1Taw",
+    "testament": "PL",
+    "maxChapter": 29,
+    "totalVerses": 942
+  },
+  {
+    "id": 14,
+    "name": "2 Tawarikh",
+    "abbr": "2Taw",
+    "testament": "PL",
+    "maxChapter": 36,
+    "totalVerses": 822
+  },
+  {
+    "id": 15,
+    "name": "Ezra",
+    "abbr": "Ezr",
+    "testament": "PL",
+    "maxChapter": 10,
+    "totalVerses": 280
+  },
+  {
+    "id": 16,
+    "name": "Nehemia",
+    "abbr": "Neh",
+    "testament": "PL",
+    "maxChapter": 13,
+    "totalVerses": 406
+  },
+  {
+    "id": 17,
+    "name": "Ester",
+    "abbr": "Est",
+    "testament": "PL",
+    "maxChapter": 10,
+    "totalVerses": 167
+  },
+  {
+    "id": 18,
+    "name": "Ayub",
+    "abbr": "Ayb",
+    "testament": "PL",
+    "maxChapter": 42,
+    "totalVerses": 1070
+  },
+  {
+    "id": 19,
+    "name": "Mazmur",
+    "abbr": "Maz",
+    "testament": "PL",
+    "maxChapter": 150,
+    "totalVerses": 2461
+  },
+  {
+    "id": 20,
+    "name": "Amsal",
+    "abbr": "Ams",
+    "testament": "PL",
+    "maxChapter": 31,
+    "totalVerses": 915
+  },
+  {
+    "id": 21,
+    "name": "Pengkhotbah",
+    "abbr": "Pkh",
+    "testament": "PL",
+    "maxChapter": 12,
+    "totalVerses": 222
+  },
+  {
+    "id": 22,
+    "name": "Kidung Agung",
+    "abbr": "Kid",
+    "testament": "PL",
+    "maxChapter": 8,
+    "totalVerses": 117
+  },
+  {
+    "id": 23,
+    "name": "Yesaya",
+    "abbr": "Yes",
+    "testament": "PL",
+    "maxChapter": 66,
+    "totalVerses": 1292
+  },
+  {
+    "id": 24,
+    "name": "Yeremia",
+    "abbr": "Yer",
+    "testament": "PL",
+    "maxChapter": 52,
+    "totalVerses": 1364
+  },
+  {
+    "id": 25,
+    "name": "Ratapan",
+    "abbr": "Rat",
+    "testament": "PL",
+    "maxChapter": 5,
+    "totalVerses": 154
+  },
+  {
+    "id": 26,
+    "name": "Yehezkiel",
+    "abbr": "Yeh",
+    "testament": "PL",
+    "maxChapter": 48,
+    "totalVerses": 1273
+  },
+  {
+    "id": 27,
+    "name": "Daniel",
+    "abbr": "Dan",
+    "testament": "PL",
+    "maxChapter": 12,
+    "totalVerses": 357
+  },
+  {
+    "id": 28,
+    "name": "Hosea",
+    "abbr": "Hos",
+    "testament": "PL",
+    "maxChapter": 14,
+    "totalVerses": 197
+  },
+  {
+    "id": 29,
+    "name": "Yoel",
+    "abbr": "Yoe",
+    "testament": "PL",
+    "maxChapter": 3,
+    "totalVerses": 73
+  },
+  {
+    "id": 30,
+    "name": "Amos",
+    "abbr": "Amo",
+    "testament": "PL",
+    "maxChapter": 9,
+    "totalVerses": 146
+  },
+  {
+    "id": 31,
+    "name": "Obaja",
+    "abbr": "Oba",
+    "testament": "PL",
+    "maxChapter": 1,
+    "totalVerses": 21
+  },
+  {
+    "id": 32,
+    "name": "Yunus",
+    "abbr": "Yun",
+    "testament": "PL",
+    "maxChapter": 4,
+    "totalVerses": 48
+  },
+  {
+    "id": 33,
+    "name": "Mikha",
+    "abbr": "Mik",
+    "testament": "PL",
+    "maxChapter": 7,
+    "totalVerses": 105
+  },
+  {
+    "id": 34,
+    "name": "Nahum",
+    "abbr": "Nah",
+    "testament": "PL",
+    "maxChapter": 3,
+    "totalVerses": 47
+  },
+  {
+    "id": 35,
+    "name": "Habakuk",
+    "abbr": "Hab",
+    "testament": "PL",
+    "maxChapter": 3,
+    "totalVerses": 56
+  },
+  {
+    "id": 36,
+    "name": "Zefanya",
+    "abbr": "Zef",
+    "testament": "PL",
+    "maxChapter": 3,
+    "totalVerses": 53
+  },
+  {
+    "id": 37,
+    "name": "Hagai",
+    "abbr": "Hag",
+    "testament": "PL",
+    "maxChapter": 2,
+    "totalVerses": 38
+  },
+  {
+    "id": 38,
+    "name": "Zakharia",
+    "abbr": "Zak",
+    "testament": "PL",
+    "maxChapter": 14,
+    "totalVerses": 211
+  },
+  {
+    "id": 39,
+    "name": "Maleakhi",
+    "abbr": "Mal",
+    "testament": "PL",
+    "maxChapter": 4,
+    "totalVerses": 55
+  },
+  {
+    "id": 40,
+    "name": "Matius",
+    "abbr": "Mat",
+    "testament": "PB",
+    "maxChapter": 28,
+    "totalVerses": 1071
+  },
+  {
+    "id": 41,
+    "name": "Markus",
+    "abbr": "Mrk",
+    "testament": "PB",
+    "maxChapter": 16,
+    "totalVerses": 678
+  },
+  {
+    "id": 42,
+    "name": "Lukas",
+    "abbr": "Luk",
+    "testament": "PB",
+    "maxChapter": 24,
+    "totalVerses": 1151
+  },
+  {
+    "id": 43,
+    "name": "Yohanes",
+    "abbr": "Yoh",
+    "testament": "PB",
+    "maxChapter": 21,
+    "totalVerses": 879
+  },
+  {
+    "id": 44,
+    "name": "Kisah Para Rasul",
+    "abbr": "Kis",
+    "testament": "PB",
+    "maxChapter": 28,
+    "totalVerses": 1007
+  },
+  {
+    "id": 45,
+    "name": "Roma",
+    "abbr": "Rom",
+    "testament": "PB",
+    "maxChapter": 16,
+    "totalVerses": 433
+  },
+  {
+    "id": 46,
+    "name": "1 Korintus",
+    "abbr": "1Kor",
+    "testament": "PB",
+    "maxChapter": 16,
+    "totalVerses": 437
+  },
+  {
+    "id": 47,
+    "name": "2 Korintus",
+    "abbr": "2Kor",
+    "testament": "PB",
+    "maxChapter": 13,
+    "totalVerses": 257
+  },
+  {
+    "id": 48,
+    "name": "Galatia",
+    "abbr": "Gal",
+    "testament": "PB",
+    "maxChapter": 6,
+    "totalVerses": 149
+  },
+  {
+    "id": 49,
+    "name": "Efesus",
+    "abbr": "Efe",
+    "testament": "PB",
+    "maxChapter": 6,
+    "totalVerses": 155
+  },
+  {
+    "id": 50,
+    "name": "Filipi",
+    "abbr": "Flp",
+    "testament": "PB",
+    "maxChapter": 4,
+    "totalVerses": 104
+  },
+  {
+    "id": 51,
+    "name": "Kolose",
+    "abbr": "Kol",
+    "testament": "PB",
+    "maxChapter": 4,
+    "totalVerses": 95
+  },
+  {
+    "id": 52,
+    "name": "1 Tesalonika",
+    "abbr": "1Tes",
+    "testament": "PB",
+    "maxChapter": 5,
+    "totalVerses": 89
+  },
+  {
+    "id": 53,
+    "name": "2 Tesalonika",
+    "abbr": "2Tes",
+    "testament": "PB",
+    "maxChapter": 3,
+    "totalVerses": 47
+  },
+  {
+    "id": 54,
+    "name": "1 Timotius",
+    "abbr": "1Tim",
+    "testament": "PB",
+    "maxChapter": 6,
+    "totalVerses": 113
+  },
+  {
+    "id": 55,
+    "name": "2 Timotius",
+    "abbr": "2Tim",
+    "testament": "PB",
+    "maxChapter": 4,
+    "totalVerses": 83
+  },
+  {
+    "id": 56,
+    "name": "Titus",
+    "abbr": "Tit",
+    "testament": "PB",
+    "maxChapter": 3,
+    "totalVerses": 46
+  },
+  {
+    "id": 57,
+    "name": "Filemon",
+    "abbr": "Flm",
+    "testament": "PB",
+    "maxChapter": 1,
+    "totalVerses": 25
+  },
+  {
+    "id": 58,
+    "name": "Ibrani",
+    "abbr": "Ibr",
+    "testament": "PB",
+    "maxChapter": 13,
+    "totalVerses": 303
+  },
+  {
+    "id": 59,
+    "name": "Yakobus",
+    "abbr": "Yak",
+    "testament": "PB",
+    "maxChapter": 5,
+    "totalVerses": 108
+  },
+  {
+    "id": 60,
+    "name": "1 Petrus",
+    "abbr": "1Pet",
+    "testament": "PB",
+    "maxChapter": 5,
+    "totalVerses": 105
+  },
+  {
+    "id": 61,
+    "name": "2 Petrus",
+    "abbr": "2Pet",
+    "testament": "PB",
+    "maxChapter": 3,
+    "totalVerses": 61
+  },
+  {
+    "id": 62,
+    "name": "1 Yohanes",
+    "abbr": "1Yoh",
+    "testament": "PB",
+    "maxChapter": 5,
+    "totalVerses": 105
+  },
+  {
+    "id": 63,
+    "name": "2 Yohanes",
+    "abbr": "2Yoh",
+    "testament": "PB",
+    "maxChapter": 1,
+    "totalVerses": 13
+  },
+  {
+    "id": 64,
+    "name": "3 Yohanes",
+    "abbr": "3Yoh",
+    "testament": "PB",
+    "maxChapter": 1,
+    "totalVerses": 14
+  },
+  {
+    "id": 65,
+    "name": "Yudas",
+    "abbr": "Yud",
+    "testament": "PB",
+    "maxChapter": 1,
+    "totalVerses": 25
+  },
+  {
+    "id": 66,
+    "name": "Wahyu",
+    "abbr": "Why",
+    "testament": "PB",
+    "maxChapter": 22,
+    "totalVerses": 404
+  }
+]
